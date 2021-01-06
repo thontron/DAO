@@ -14,7 +14,7 @@ members [`0x3e8640574aa764763291ed733672d3a105107ac5`](https://etherscan.io/addr
 ## Custodian
 |||Announcement|
 |---|------|---------|
-|Bitgo   |[`0xb0f42d187145911c2ad1755831aded125619bd27`](https://etherscan.io/address/0xb0f42d187145911c2ad1755831aded125619bd27)      | [link](https://twitter.com/BitGo/status/1088519664974450688) |
+|Bitgo   |[`0xc9878d294634df9ef76d9c96b6bc60d66d1a03f2`](https://etherscan.io/address/0xc9878d294634df9ef76d9c96b6bc60d66d1a03f2)      | [link]9https://twitter.com/non_fungible) |
 
 ## Merchants
 |   |      |         | Announcement |
